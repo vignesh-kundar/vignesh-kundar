@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vignesh-kundar&label=Profile%20views&color=0e75b6&style=flat" alt="vignesh-kundar" /> </p>
 
-<p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img margin="10px" src="https://github-profile-trophy.vercel.app/?username=vignesh-kundar" alt="vignesh-kundar" /></a> </p>
-
 - 🔭 I’m currently working on [sendF](https://sendf.vercel.app/)
 
 - 🌱 I’m currently learning **React**
