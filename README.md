@@ -1,5 +1,17 @@
 <h1 align="center"> Vignesh Kundar <h1>
   
+  
+  ## Projects
+  
+  <div align="center">
+    
+  | Project Name | Description| website | source code |
+  |--|--|--|--|
+  | Shop DB | Nodejs DBMS project | - | [source code](https://github.com/vignesh-kundar/mini) |
+  | Spotify Clone |Html, Css site (responsive for 1024×768 through 1920×1080.) | [visit](https://vignesh-kundar.github.io/spotify-clone/) | [source cide](https://github.com/vignesh-kundar/spotify-clone) |
+    
+  </div>
+  
   ## Stats
   
   <div align="center">
