@@ -69,7 +69,7 @@ public class VigneshKundar {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vignesh-kundar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vignesh-kundar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/> -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh-kundar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
 
 </div>
@@ -77,6 +77,12 @@ public class VigneshKundar {
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vignesh-kundar&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+    
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vignesh-kundar&theme=tokyonight)](https://github.com/vignesh-kundar)
 
 </div>
 
